@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Platformy programistyczne .Net i Java", "Platformy programistyczne .Net i Java\Platformy programistyczne .Net i Java.csproj", "{773156CD-7640-4B41-B3BB-4A8EC89D0624}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Platformy programistyczne .Net i Java.Tests", "Platformy programistyczne .Net i Java.Tests\Platformy programistyczne .Net i Java.Tests.csproj", "{58C76B0D-3D5C-4699-A6DE-3CBB12AF8999}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{773156CD-7640-4B41-B3BB-4A8EC89D0624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{773156CD-7640-4B41-B3BB-4A8EC89D0624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{773156CD-7640-4B41-B3BB-4A8EC89D0624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{773156CD-7640-4B41-B3BB-4A8EC89D0624}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58C76B0D-3D5C-4699-A6DE-3CBB12AF8999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C76B0D-3D5C-4699-A6DE-3CBB12AF8999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C76B0D-3D5C-4699-A6DE-3CBB12AF8999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C76B0D-3D5C-4699-A6DE-3CBB12AF8999}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CC90100-1C68-4666-A890-66BBEA9157DE}
+	EndGlobalSection
+EndGlobal
